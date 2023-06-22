@@ -1,2 +1,0 @@
-#!/bin/bash
-pwd All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file. Later, we’ll learn more about how to utiliz
